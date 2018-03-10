@@ -1,0 +1,7 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["Ryan Riginding <ryan@riginding.com>"]
+
+[dependencies]
+stdweb = "0.4.1"
